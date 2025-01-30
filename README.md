@@ -1,1 +1,1 @@
-i am learning advanced git
+My name is lizzy
